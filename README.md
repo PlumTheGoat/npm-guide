@@ -1,4 +1,4 @@
-@import "{{ jekyll-theme-minimal }}";
+
 # How to Create an npm Package
 
 ## Step 1: Set Up Your Project
