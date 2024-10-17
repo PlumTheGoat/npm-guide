@@ -1,3 +1,4 @@
+@import "{{ jekyll-theme-minimal }}";
 # How to Create an npm Package
 
 ## Step 1: Set Up Your Project
@@ -21,5 +22,4 @@
 ## Step 6: Publish Your Package
 - Log in to npm using `npm login`.
 - Publish your package using `npm publish`.
-jekyll-theme-minimal
 
