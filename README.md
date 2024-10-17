@@ -21,5 +21,5 @@
 ## Step 6: Publish Your Package
 - Log in to npm using `npm login`.
 - Publish your package using `npm publish`.
-
+jekyll-theme-minimal
 
